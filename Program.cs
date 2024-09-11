@@ -54,7 +54,7 @@ while (true)
                                     Console.WriteLine("Tanlang (raqam bilan):");
                                     Console.WriteLine("1: Depozit qoyish");
                                     Console.WriteLine("2: Pul o'tkazmalari");
-                                    Console.WriteLine("2: Pul Yechib olish");
+                                    Console.WriteLine("3: Pul Yechib olish");
                                     Console.Write("Tanlov: ");
                                     int workUsers = int.Parse(Console.ReadLine());
 
